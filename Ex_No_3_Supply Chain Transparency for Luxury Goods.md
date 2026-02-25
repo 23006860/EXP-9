@@ -1,6 +1,6 @@
 # Ex_No_3_Supply Chain Transparency for Luxury Goods
-### NAME: SATHYANARAYANAN M
-### REGISTER NUMBER: 212224040300
+### NAME: Rahul V
+### REGISTER NUMBER: 212223240133
 ### DATE : 24.02.25
 ## Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
